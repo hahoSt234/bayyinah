@@ -1,0 +1,46 @@
+{
+  "request_id": "demo-0003",
+  "input_type": "video",
+  "processing_ms": 5100,
+  "verdict": "undetermined",
+  "verdict_title": "غير محسوم",
+  "verdict_summary": "لا تكفي القرائن للحكم، ويُحال المقطع إلى المختص",
+  "abstain_reason": "short_audio_and_no_match",
+  "transcript": {
+    "available": true,
+    "text": "من صام يوم كذا كتب الله له أجر ألف شهيد",
+    "duration_sec": 4.2
+  },
+  "evidence": {
+    "authenticity": {
+      "status": "checked",
+      "signal": "inconclusive",
+      "label": "القرائن غير كافية لأن المقطع قصير جداً",
+      "waveform": [0.4, 0.62, 0.55, 0.71, 0.48, 0.39, 0.66, 0.58, 0.44, 0.52, 0.69, 0.47, 0.35, 0.6, 0.73, 0.5]
+    },
+    "speaker_match": {
+      "status": "no_reference",
+      "label": "لا تتوفر عينة مرجعية لصوت المتحدث المنسوب إليه"
+    },
+    "original_match": {
+      "status": "not_found",
+      "label": "لم يُعثر على الدرس الأصلي في الأرشيف الموثق",
+      "source": null,
+      "before": null,
+      "after": null
+    },
+    "content": {
+      "status": "not_found",
+      "label": "لم يُعثر على هذا النص في المصادر المتاحة",
+      "claims": [
+        {
+          "quoted_text": "من صام يوم كذا كتب الله له أجر ألف شهيد",
+          "matched": false,
+          "match_type": null,
+          "hadith": null
+        }
+      ]
+    }
+  },
+  "disclaimer": "عدم العثور على النص في قاعدتنا لا يعني أنه موضوع. التقرير قرائن مساعدة وليس حكماً قطعياً، والمرجع في الحكم أهل العلم."
+}

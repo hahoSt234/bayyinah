@@ -1,0 +1,1844 @@
+[
+  {
+    "text": "اختلافُ امتي رحمة",
+    "grade_raw": "ضعيف",
+    "graded_by": "السيوطي",
+    "source": {
+      "book": "تدريب الراوي",
+      "ref": "٢/١٦٧"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "إن اللهَ يرضَى لكم ثلاثًا ويسخطُ لكم ثلاثًا يرضَى لكم أن تعبدوه ولا تُشرِكوا به شيئًا وأن تعتصموا بحبلِ اللهِ جميعًا ولا تفرَّقوا وأن تناصحوا مَن ولَّاه اللهُ أمرَكم",
+      "grade_raw": "صحيح",
+      "graded_by": "ابن باز",
+      "narrator": "[أبو هريرة]",
+      "source": {
+        "book": "مجموع فتاوى ابن باز",
+        "ref": "352/12"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H001",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H001-ALT",
+    "text": "إن اللهَ يرضَى لكم ثلاثًا ويسخطُ لكم ثلاثًا يرضَى لكم أن تعبدوه ولا تُشرِكوا به شيئًا وأن تعتصموا بحبلِ اللهِ جميعًا ولا تفرَّقوا وأن تناصحوا مَن ولَّاه اللهُ أمرَكم",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "ابن باز",
+    "source": {
+      "book": "مجموع فتاوى ابن باز",
+      "ref": "352/12"
+    },
+    "takhrij": null,
+    "narrator": "[أبو هريرة]",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "صَمْتُ الصائمِ تسبيحٌ، ونومُهُ عبادَةٌ، ودعاؤُهُ مستجابٌ، وعملُهُ مضاعَفٌ",
+    "grade_raw": "ضعيف",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "السلسلة الضعيفة",
+      "ref": "3784"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H003",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "من زار قبرِي وجَبت له شفاعتِي",
+    "grade_raw": "موضوع",
+    "graded_by": "ابن باز",
+    "source": {
+      "book": "مجموع فتاوى ابن باز",
+      "ref": "113/16"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H004",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "من عرفَ نفسَهُ فقد عرفَ ربَّهُ ومن عرَفَ ربَّهُ كَلَّ لسانُهُ",
+    "grade_raw": "ليس هو بثابت",
+    "graded_by": "النووي",
+    "source": {
+      "book": "المنثورات للنووي",
+      "ref": "286"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H005",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "مَن قَرَأ سورةَ الواقِعةِ في كُلِّ ليلةٍ لم تُصِبْه فاقةٌ أبَدًا",
+    "grade_raw": "ضعيف",
+    "graded_by": "الدار قطني",
+    "source": {
+      "book": "فيض القدير",
+      "ref": "6/ 201"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H006",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "من قرأ سورةَ يس في ليلةِ الجمعة غُفر له",
+    "grade_raw": "ضعيف حداّ",
+    "graded_by": "الالباني",
+    "source": {
+      "book": "السلسلة الضعيفة",
+      "ref": "5111"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H007",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "اتق شر من احسنت اليه",
+    "grade_raw": "لا اصل له او بأصله موضوع",
+    "graded_by": "ملا علي قاري",
+    "source": {
+      "book": "الأسرار المرفوعة",
+      "ref": "105"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H008",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "أمرًا بينَ أمرينِ، وخيرُ الأُمورِ أَوْسَطُها.",
+    "grade_raw": "ضعيف",
+    "graded_by": "الالباني",
+    "source": {
+      "book": "السلسلة الضعيفة",
+      "ref": "7056"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H009",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "النَّظافةُ من الإيمانِِ",
+    "grade_raw": "رفعه إلى النبي صلى الله عليه وسلم ليس بصحيح",
+    "graded_by": "ابن باز",
+    "source": {
+      "book": "الفوائد العلمية من الدروس البازية",
+      "ref": "6/113"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H010",
+    "grade_class": "detailed",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "اعمل لدنياك كأنك تعيشُ أبدًا، واعمل لآخرتِك كأنك تموتُ غدًا",
+    "grade_raw": "لا اصل له مرفوعا",
+    "graded_by": "الالباني",
+    "source": {
+      "book": "السلسلة الضعيفة السلسلة الضعيفة",
+      "ref": "8"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H011",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "الدِّينُ حُسنُ المعاملةِ، أو الدِّينُ المعاملةُ",
+    "grade_raw": "ليس بحديث، فهذا لا أصل له، ولكن هو صحيح من حيث المعنى، وليس بحديث",
+    "graded_by": "ابن باز",
+    "source": {
+      "book": "الفوائد العلمية من الدروس البازية",
+      "ref": "2/161"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H012",
+    "grade_class": "detailed",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "الجزاءُ من جنسِ العملِ",
+    "grade_raw": "لم يرد بهذا اللفظ",
+    "graded_by": "محمد جار الله الصعدي",
+    "source": {
+      "book": "النوافح العطرة",
+      "ref": "115"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H013",
+    "grade_class": "detailed",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "لكلِّ مجتهدٍ نصيبٌ",
+    "grade_raw": "قيل لا أصل له أو بأصله موضوع",
+    "graded_by": "ملا علي قاري",
+    "source": {
+      "book": "الأسرار المرفوعة",
+      "ref": "279"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "جاءَ سُراقةُ بنُ مالِكِ بنِ جُعشُمٍ، قال: يا رَسولَ اللهِ، بَيِّنْ لَنا دينَنا كَأنَّا خُلِقنا الآنَ، فيما العَمَلُ اليَومَ؟ أفيما جَفَّت به الأقلامُ وجَرَت به المَقاديرُ، أم فيما نَستَقبِلُ؟ قال: لا، بَل فيما جَفَّت به الأقلامُ وجَرَت به المَقاديرُ، قال: ففيمَ العَمَلُ؟ قال زُهَيرٌ: ثُمَّ تَكَلَّمَ أبو الزُّبَيرِ بشَيءٍ لم أفهَمْه، فسَألتُ: ما قال؟ فقال: اعمَلوا؛ فكُلٌّ مُيَسَّرٌ.",
+      "grade_raw": "صحيح",
+      "graded_by": "مسلم",
+      "narrator": "جابر بن عبدالله",
+      "source": {
+        "book": "صحيح مسلم",
+        "ref": "2648"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H014",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H014-ALT",
+    "text": "جاءَ سُراقةُ بنُ مالِكِ بنِ جُعشُمٍ، قال: يا رَسولَ اللهِ، بَيِّنْ لَنا دينَنا كَأنَّا خُلِقنا الآنَ، فيما العَمَلُ اليَومَ؟ أفيما جَفَّت به الأقلامُ وجَرَت به المَقاديرُ، أم فيما نَستَقبِلُ؟ قال: لا، بَل فيما جَفَّت به الأقلامُ وجَرَت به المَقاديرُ، قال: ففيمَ العَمَلُ؟ قال زُهَيرٌ: ثُمَّ تَكَلَّمَ أبو الزُّبَيرِ بشَيءٍ لم أفهَمْه، فسَألتُ: ما قال؟ فقال: اعمَلوا؛ فكُلٌّ مُيَسَّرٌ.",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "مسلم",
+    "source": {
+      "book": "صحيح مسلم",
+      "ref": "2648"
+    },
+    "takhrij": null,
+    "narrator": "جابر بن عبدالله",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "الجنَّةُ تحْتَ أقدامِ الأمَّهاتِ",
+    "grade_raw": "ضعيف",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "ضعيف الجامع",
+      "ref": "2666"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "ألكَ والدانِ ؟ قال : نعَم ، قال : الزَمهُما فإنَّ الجنَّةَ تحتَ أرجلِهما",
+      "grade_raw": "صحيح",
+      "graded_by": "الهيتمي المكي",
+      "narrator": null,
+      "source": {
+        "book": "الزواجر عن اقتراف الكبائر",
+        "ref": "2/74"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H016",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H016-ALT",
+    "text": "ألكَ والدانِ ؟ قال : نعَم ، قال : الزَمهُما فإنَّ الجنَّةَ تحتَ أرجلِهما",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "الهيتمي المكي",
+    "source": {
+      "book": "الزواجر عن اقتراف الكبائر",
+      "ref": "2/74"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "التَمِسْ لأخيك سَبعينَ عُذرًا",
+    "grade_raw": "لا علم له اصلاّ",
+    "graded_by": "ابن باز",
+    "source": {
+      "book": "مجموع فتاوى ابن باز",
+      "ref": "26/370"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H018",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "أَجْرَؤُكم على الفُتْيَا أَجْرَؤُكم على النارِ",
+    "grade_raw": "ضعيف",
+    "graded_by": "الالباني",
+    "source": {
+      "book": "السلسلة الضعيفة",
+      "ref": "1814"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H019",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "إنَّ لكلِّ شيءٌ قلبٌ وقلبُ القرآنِ يس ومن قرأ يس كتب اللهُ له بقراءتِها قراءةَ القرآنِ عشْرَ مراتٍ",
+    "grade_raw": "ضعيف",
+    "graded_by": "محمد جار الله الصعدي",
+    "source": {
+      "book": "النوافح العطرة",
+      "ref": "76"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H020",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "كما تَدِينُ تُدَانُ [يعني حديث: الذنبُ لا يُنسى والبرُّ لا يَبلى والدَّيَّانُ لا يموتُ فكن كما شئت فكما تدين تُدانُ]",
+    "grade_raw": "ضعيف",
+    "graded_by": "محمد جار الله الصعدي",
+    "source": {
+      "book": "النوافح العطرة",
+      "ref": "26"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "ارحموا تُرْحَمُوا ، واغفِروا يُغْفَرْ لكُم",
+      "grade_raw": "صحيح",
+      "graded_by": "الألباني",
+      "narrator": "عبدالله بن عمرو",
+      "source": {
+        "book": "صحيح الترغيب",
+        "ref": "2465"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H021",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H021-ALT",
+    "text": "ارحموا تُرْحَمُوا ، واغفِروا يُغْفَرْ لكُم",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "صحيح الترغيب",
+      "ref": "2465"
+    },
+    "takhrij": null,
+    "narrator": "عبدالله بن عمرو",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "صدقةُ السرِّ تطفئُ غضبَ الربِّ",
+    "grade_raw": "إسناده منكر جدا",
+    "graded_by": "ابن الملقن",
+    "source": {
+      "book": "خلاصة البدر المنير",
+      "ref": "2/166"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "ألا أدلُّكَ على أبوابِ الخيرِ ؟ . قلتُ : بلَى يا رسولَ اللهِ ! قال : الصَّومُ جُنَّةٌ ، و الصَّدقةُ تُطْفِئُ الخطيئةَ كما يُطْفِئُ الماءُ النَّارَ",
+      "grade_raw": "صحيح لغيره",
+      "graded_by": "الألباني",
+      "narrator": "معاذ بن جبل",
+      "source": {
+        "book": "صحيح الترغيب",
+        "ref": "983"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H023",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H023-ALT",
+    "text": "ألا أدلُّكَ على أبوابِ الخيرِ ؟ . قلتُ : بلَى يا رسولَ اللهِ ! قال : الصَّومُ جُنَّةٌ ، و الصَّدقةُ تُطْفِئُ الخطيئةَ كما يُطْفِئُ الماءُ النَّارَ",
+    "grade_raw": "صحيح لغيره",
+    "grade_class": "authentic",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "صحيح الترغيب",
+      "ref": "983"
+    },
+    "takhrij": null,
+    "narrator": "معاذ بن جبل",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "اتَّقوا فِراسةَ المؤمنِ فإنَّه ينظرُ بنورِ اللهِ",
+    "grade_raw": "لا يصح",
+    "graded_by": "ابن الجوزي",
+    "source": {
+      "book": "الموضوعات لابن الجوزي",
+      "ref": "3/389"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H025",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "خِيارُ البِرِّ عاجلُه _ وفي لَفْظٍ خَيْرُ البرِّ عاجلُه",
+    "grade_raw": "ليس بحديث،",
+    "graded_by": "العجلوني",
+    "source": {
+      "book": "كشف الخفاء",
+      "ref": "1/461"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H026",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "خيرُكم من تعلَّم القرآنَ وعلَّمه وفضلُ القرآنِ على سائرِ الكلامِ كفضلِ اللهِ على خلقِه وذاك أنه منه",
+    "grade_raw": "هذه الزيادة لا يصح رفعها",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "السلسلة الصحيحة",
+      "ref": "3/168"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "خَيرُكُم مَن تَعَلَّمَ القُرآنَ وعَلَّمَه. قال: وأقرَأ أبو عبدِ الرَّحمَنِ في إمرةِ عُثمانَ، حتَّى كان الحَجَّاجُ قال: وذاك الذي أقعَدَني مَقعَدي هذا.",
+      "grade_raw": "صحيح",
+      "graded_by": "البخاري",
+      "narrator": "عثمان بن عفان",
+      "source": {
+        "book": "صحيح البخاري",
+        "ref": "5027"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H027",
+    "grade_class": "detailed",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H027-ALT",
+    "text": "خَيرُكُم مَن تَعَلَّمَ القُرآنَ وعَلَّمَه. قال: وأقرَأ أبو عبدِ الرَّحمَنِ في إمرةِ عُثمانَ، حتَّى كان الحَجَّاجُ قال: وذاك الذي أقعَدَني مَقعَدي هذا.",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "5027"
+    },
+    "takhrij": null,
+    "narrator": "عثمان بن عفان",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "خيرُ يومٍ طلعتْ عليه الشمسُ يومُ عرفةَ، إذا وافقَ يومَ جمعةٍ، وهو أفضلُ من سبعينَ حجةٍ في غيرِها",
+    "grade_raw": "لا اصل له",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "السلسلة الضعيفة",
+      "ref": "1193"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "خيرُ يومٍ طلعَت علَيهِ الشَّمسُ : يومُ الجمُعةِ فيهِ خُلِقَ آدمُ وفيهِ أُهْبِطَ وفيهِ مات ، وفيه تيبَ علَيهِ وفيهِ تقومُ السَّاعةُ وما من دابَّة إلَّا وَهي مُصيخَةٌ يومَ الجمُعةِ من حينِ تصبحُ حتَّى تطلعَ الشَّمسُ شفَقًا منَ السَّاعةِ إلَّا الجنَّ والإنسَ وفيه ساعةٌ لا يصادِفُها عبدٌ مسلمٌ وَهوَ يصلِّي ، يسألُ اللَّهَ شيئًا إلَّا أعطاهُ إيَّاهُ",
+      "grade_raw": "صحيح",
+      "graded_by": "الألباني",
+      "narrator": "أبو هريرة",
+      "source": {
+        "book": "هداية الرواة",
+        "ref": "1307"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H029",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H029-ALT",
+    "text": "خيرُ يومٍ طلعَت علَيهِ الشَّمسُ : يومُ الجمُعةِ فيهِ خُلِقَ آدمُ وفيهِ أُهْبِطَ وفيهِ مات ، وفيه تيبَ علَيهِ وفيهِ تقومُ السَّاعةُ وما من دابَّة إلَّا وَهي مُصيخَةٌ يومَ الجمُعةِ من حينِ تصبحُ حتَّى تطلعَ الشَّمسُ شفَقًا منَ السَّاعةِ إلَّا الجنَّ والإنسَ وفيه ساعةٌ لا يصادِفُها عبدٌ مسلمٌ وَهوَ يصلِّي ، يسألُ اللَّهَ شيئًا إلَّا أعطاهُ إيَّاهُ",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "هداية الرواة",
+      "ref": "1307"
+    },
+    "takhrij": null,
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "من صلَّى الفجرَ في جماعةٍ فكأنَّما حجَّ خمسينَ حجَّةً مع آدمَ.",
+    "grade_raw": "باطل",
+    "graded_by": "االشوكاني",
+    "source": {
+      "book": "الفوائد المجموعة",
+      "ref": "32"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H031",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "أَرْبَعُ دَعَواتٍ لا تُرَدُّ : دعوةُ الحاجِّ حتى يَرْجِعَ، ودعوةُ الغازِي حتى يَصْدُرَ، ودعوةُ المريضِ حتى يَبْرَأَ، ودعوةُ الأخِ لِأَخِيهِ بظَهْرِ الغيبِ، وأَسْرَعُ هؤلاءِ الدَّعَواتِ إجابةً دعوةُ الأخِ لِأَخِيهِ بظَهْرِ الغيبِ.",
+    "grade_raw": "موضوع",
+    "graded_by": "االالباني",
+    "source": {
+      "book": "ضعيف الجامع",
+      "ref": "751"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "ما مِن عَبدٍ مُسلِمٍ يَدعو لأخيه بظَهرِ الغَيبِ، إلَّا قال المَلَكُ: ولَكَ بمِثلٍ.",
+      "grade_raw": "صحيح",
+      "graded_by": "مسلم",
+      "narrator": "أبو الدرداء",
+      "source": {
+        "book": "صحيح مسلم",
+        "ref": "2732 ع"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H032",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H032-ALT",
+    "text": "ما مِن عَبدٍ مُسلِمٍ يَدعو لأخيه بظَهرِ الغَيبِ، إلَّا قال المَلَكُ: ولَكَ بمِثلٍ.",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "مسلم",
+    "source": {
+      "book": "صحيح مسلم",
+      "ref": "2732 ع"
+    },
+    "takhrij": null,
+    "narrator": "أبو الدرداء",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "الأقربونَ أَوْلَى بالمعروفِ",
+    "grade_raw": "قيل لا أصل له أو بأصله موضوع",
+    "graded_by": "ملا علي قاري",
+    "source": {
+      "book": "الأسرار المرفوعة",
+      "ref": "124"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "أُمَّكَ ، ثمَّ أُمَّكَ ، ثُمَّ أُمَّكَ ، ثُمَّ أباكَ ، ثُمَّ الأقربُونَ فالأقربُونَ",
+      "grade_raw": "حسن",
+      "graded_by": "الألباني",
+      "narrator": "معاوية بن حيدة وأبو هريرة",
+      "source": {
+        "book": "صحيح الجامع",
+        "ref": "1399"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H034",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H034-ALT",
+    "text": "أُمَّكَ ، ثمَّ أُمَّكَ ، ثُمَّ أُمَّكَ ، ثُمَّ أباكَ ، ثُمَّ الأقربُونَ فالأقربُونَ",
+    "grade_raw": "حسن",
+    "grade_class": "authentic",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "صحيح الجامع",
+      "ref": "1399"
+    },
+    "takhrij": null,
+    "narrator": "معاوية بن حيدة وأبو هريرة",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "إكرامُ الميتِ دفنُه",
+    "grade_raw": "لا أصل له",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "أحكام الجنائز",
+      "ref": "24"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H036",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "إذا مات أحدُكم؛ فقد قامتْ قيامتُه؛ فاعبدوا اللهَ كأنكم ترَوْنَه، واستغفِروه كُلَّ ساعةٍ.",
+    "grade_raw": "موضوع",
+    "graded_by": "الالباني",
+    "source": {
+      "book": "السلسلة الضعيفة",
+      "ref": "5462"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H037",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "التَّائبُ من الذَّنبِ كمَنْ لا ذَنبِ له",
+    "grade_raw": "ضعيف",
+    "graded_by": "أبو حاتم الرازي",
+    "source": {
+      "book": "لسان الميزان",
+      "ref": "9/217"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H038",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "اذكُروا مَحَاسِنَ مَوْتَاكُمْ، وَكُفُّوا عن مَسَاوِيهِمْ",
+    "grade_raw": "إسناده ضعيف",
+    "graded_by": "النووي",
+    "source": {
+      "book": "خلاصة الأحكام للنووي",
+      "ref": "2/944"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "إذا مات صاحبُكم فدَعُوه لا تقعوا فيه",
+      "grade_raw": "صحيح",
+      "graded_by": "الألباني",
+      "narrator": "عائشة أم المؤمنين",
+      "source": {
+        "book": "صحيح أبي داود",
+        "ref": "4899"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H039",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H039-ALT",
+    "text": "إذا مات صاحبُكم فدَعُوه لا تقعوا فيه",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "صحيح أبي داود",
+      "ref": "4899"
+    },
+    "takhrij": null,
+    "narrator": "عائشة أم المؤمنين",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "عن ابنِ عُمَرَ رَضي اللهُ عنهما، وقال مرَّةً: عن سهلِ بنِ سعدٍ رَضي اللهُ عنه، قال: جاء جِبريلُ عليه السلامُ إلى النبيِّ صلَّى اللهُ عليه وسلَّمَ، فقال: يا محمَّدُ، عِشْ ما شِئتَ فإنَّك ميِّتٌ، وأَحْبِبْ مَنْ شئتَ فإنَّك مُفارِقُه، واعمَلْ ما شئتَ فإنَّك مَجْزِيٌّ به، ثمَّ قال: يا محمَّدُ، شَرَفُ المؤمنِ قيامُ اللَّيلِ، وعِزُّه استغناؤُه عَنِ النَّاسِ.",
+    "grade_raw": "سنده ضعيف",
+    "graded_by": "ابن حجر العسقلاني",
+    "source": {
+      "book": "الجواهر والدرر",
+      "ref": "2/944"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "لا تَستبطِئُوا الرِّزقَ ، فإنَّهُ لمْ يكنْ عبدٌ لِيموتَ حتى يَبلُغَهُ آخِرُ رِزقٍ هوَ لهُ ، فاتَّقُوا اللهَ ، وأجْملُوا في الطَّلَبِ ، أخذُ الحلالِ ، وتركُ الحرامِ",
+      "grade_raw": "صحيح",
+      "graded_by": "الألباني",
+      "narrator": "جابر بن عبدالله",
+      "source": {
+        "book": "صحيح الجامع",
+        "ref": "7323"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H041",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H041-ALT",
+    "text": "لا تَستبطِئُوا الرِّزقَ ، فإنَّهُ لمْ يكنْ عبدٌ لِيموتَ حتى يَبلُغَهُ آخِرُ رِزقٍ هوَ لهُ ، فاتَّقُوا اللهَ ، وأجْملُوا في الطَّلَبِ ، أخذُ الحلالِ ، وتركُ الحرامِ",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "صحيح الجامع",
+      "ref": "7323"
+    },
+    "takhrij": null,
+    "narrator": "جابر بن عبدالله",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "الغناءُ واللهوُ يُنبتانِ النفاقَ في القلبِ كما يُنبتُ الماءُ العشبَ",
+    "grade_raw": "لا يصح",
+    "graded_by": "القاوقجي",
+    "source": {
+      "book": "مختصر المقاصد",
+      "ref": "679"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H043",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "مَن قرأ سورةَ ( الدُّخَانِ ) في ليلةٍ، غُفِرَ له ما تَقَدَّمَ من ذنبِه",
+    "grade_raw": "ضعيف",
+    "graded_by": "الالباني",
+    "source": {
+      "book": "ضعيف الجامع",
+      "ref": "5772"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H044",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "كان النبيُّ صلَّى اللهُ عليه وسلَّمَ إذا دخَل رجَبٌ، قال: اللَّهُمَّ بارِكْ لنا في رجَبٍ وشَعْبانَ، وبارِكْ لنا في رمضانَ، وكان يقولُ: ليلةُ الجُمُعةِ غَرَّاءُ، ويومُها أزهَرُ.",
+    "grade_raw": "إسناده ضعيف",
+    "graded_by": "شعيب الأرناؤوط",
+    "source": {
+      "book": "تخريج المسند لشعيب",
+      "ref": "2346"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H045",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "مَن قال حين يُصْبِحُ ثلاثَ مَرَّاتٍ : أعوذُ باللهِ السميعِ العليمِ، من الشيطانِ الرجيمِ، وقرأ ثلاثَ آياتٍ من آخِرِ سورةِ ( الْحَشْرِ )، وَكَّل اللهُ به سبعينَ ألفَ مَلَكٍ، يُصَلُّون عليه حين يُمْسِي، وإن مات في ذلك اليومِ، مات شهيدًا، ومَن قالها حين يُمْسِي كان بتلك المنزلةِ",
+    "grade_raw": "ضعيف",
+    "graded_by": "الالباني",
+    "source": {
+      "book": "ضعيف الجامع",
+      "ref": "5732"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "سَيِّدُ الاستِغفارِ: اللهُمَّ أنتَ رَبِّي، لا إلَهَ إلَّا أنتَ، خَلَقتَني وأنا عَبدُك، وأنا على عَهدِك ووَعدِك ما استَطَعتُ، أبوءُ لك بنِعمَتِك عليَّ، وأبوءُ لك بذَنبي، فاغفِرْ لي؛ فإنَّه لا يَغفِرُ الذُّنوبَ إلَّا أنتَ، أعوذُ بك مِن شَرِّ ما صَنَعتُ. إذا قال حينَ يُمسي فماتَ دَخَلَ الجَنَّةَ -أو: كان مِن أهلِ الجَنَّةِ-، وإذا قال حينَ يُصبِحُ فماتَ مِن يَومِه مِثلَه.",
+      "grade_raw": "صحيح",
+      "graded_by": "البخاري",
+      "narrator": "شداد بن أوس",
+      "source": {
+        "book": "صحيح البخاري",
+        "ref": "6323"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H046",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H046-ALT",
+    "text": "سَيِّدُ الاستِغفارِ: اللهُمَّ أنتَ رَبِّي، لا إلَهَ إلَّا أنتَ، خَلَقتَني وأنا عَبدُك، وأنا على عَهدِك ووَعدِك ما استَطَعتُ، أبوءُ لك بنِعمَتِك عليَّ، وأبوءُ لك بذَنبي، فاغفِرْ لي؛ فإنَّه لا يَغفِرُ الذُّنوبَ إلَّا أنتَ، أعوذُ بك مِن شَرِّ ما صَنَعتُ. إذا قال حينَ يُمسي فماتَ دَخَلَ الجَنَّةَ -أو: كان مِن أهلِ الجَنَّةِ-، وإذا قال حينَ يُصبِحُ فماتَ مِن يَومِه مِثلَه.",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "6323"
+    },
+    "takhrij": null,
+    "narrator": "شداد بن أوس",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "أصحابي كالنُّجومِ، بأيِّهم اقتَدَيْتم اهتَدَيْتُم.",
+    "grade_raw": "لا يصح هذا الحديث",
+    "graded_by": "الإمام أحمد",
+    "source": {
+      "book": "المنتخب من العلل للخلال",
+      "ref": "119"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "أوصيكُم بالسَّمعِ والطَّاعةِ ، فإنَّهُ مَن يعِشْ منكُم بَعدي فسيَرى اختلافًا كثيرًا، فعَليكم بِسنَّتي وسنَّةِ الخلفاءِ الرَّاشدينَ المَهْديِّينَ مِن بَعدي تَمسَّكوا بِها ( وعضُّوا علَيها ) بالنَّواجذِ، وإيَّاكم ومُحدَثاتِ الأمورِ ، فإنَّ كلَّ بدعةٍ ضلالَه",
+      "grade_raw": "صحيح",
+      "graded_by": "الألباني",
+      "narrator": "العرباض بن سارية",
+      "source": {
+        "book": "شرح الطحاوية",
+        "ref": "382"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H048",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H048-ALT",
+    "text": "أوصيكُم بالسَّمعِ والطَّاعةِ ، فإنَّهُ مَن يعِشْ منكُم بَعدي فسيَرى اختلافًا كثيرًا، فعَليكم بِسنَّتي وسنَّةِ الخلفاءِ الرَّاشدينَ المَهْديِّينَ مِن بَعدي تَمسَّكوا بِها ( وعضُّوا علَيها ) بالنَّواجذِ، وإيَّاكم ومُحدَثاتِ الأمورِ ، فإنَّ كلَّ بدعةٍ ضلالَه",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "شرح الطحاوية",
+      "ref": "382"
+    },
+    "takhrij": null,
+    "narrator": "العرباض بن سارية",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "اغتنمْ خمسًا قبلَ خمسٍ شبابَك قبلَ هَرَمِك، وصِحتَك قبلَ سَقَمِك، وغناك قبلَ فقرِك، وفراغَك قبلَ شغلِك، وحياتَك قبلَ موتِك.",
+    "grade_raw": "مرسل",
+    "graded_by": "صدر الدين المناوي",
+    "source": {
+      "book": "كشف المناهج والتناقيح",
+      "ref": "4/376"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H050",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "من كَثُرَ كلامُه كَثُرَ سَقْطُهُ, ومن كَثُرَ سَقْطُهُ كَثُرَتْ ذنوبُه, ومن كَثُرَتْ ذنوبُه فالنارُ أَوْلَى به",
+    "grade_raw": "إسناده ضعيف",
+    "graded_by": "العجلوني",
+    "source": {
+      "book": "كشف الخفاء",
+      "ref": "2/361"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "مَن كان يُؤمِنُ باللهِ واليَومِ الآخِرِ فليُكرِمْ ضَيفَه، جائِزَتُه يَومٌ ولَيلةٌ، والضِّيافةُ ثَلاثةُ أيَّامٍ، فما بَعدَ ذلك فهو صَدَقةٌ، ولا يَحِلُّ له أن يَثويَ عِندَه حتَّى يُحرِجَه، حَدَّثَنا إسماعيلُ، قال: حدَّثَني مالِكٌ: مِثلَه، وزادَ: مَن كان يُؤمِنُ باللهِ واليَومِ الآخِرِ فليَقُلْ خَيرًا أو ليَصمُتْ.",
+      "grade_raw": "صحيح",
+      "graded_by": "البخاري",
+      "narrator": "أبو شريح العدوي خويلد بن عمرو",
+      "source": {
+        "book": "صحيح البخاري",
+        "ref": "6135"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H051",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H051-ALT",
+    "text": "مَن كان يُؤمِنُ باللهِ واليَومِ الآخِرِ فليُكرِمْ ضَيفَه، جائِزَتُه يَومٌ ولَيلةٌ، والضِّيافةُ ثَلاثةُ أيَّامٍ، فما بَعدَ ذلك فهو صَدَقةٌ، ولا يَحِلُّ له أن يَثويَ عِندَه حتَّى يُحرِجَه، حَدَّثَنا إسماعيلُ، قال: حدَّثَني مالِكٌ: مِثلَه، وزادَ: مَن كان يُؤمِنُ باللهِ واليَومِ الآخِرِ فليَقُلْ خَيرًا أو ليَصمُتْ.",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "6135"
+    },
+    "takhrij": null,
+    "narrator": "أبو شريح العدوي خويلد بن عمرو",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "الوضوءُ على الوضوءِ نورٌ على نورٍ",
+    "grade_raw": "ضعيف",
+    "graded_by": "المباركفوري",
+    "source": {
+      "book": "تحفة الأحوذي",
+      "ref": "1/121"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H053",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "مَنِ استَشفى بغَيرِ القرآنِ فلا شَفاهُ اللهُ تَعالى.",
+    "grade_raw": "موضوع",
+    "graded_by": "الصغاني",
+    "source": {
+      "book": "الموضوعات للصغاني",
+      "ref": "77"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H054",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "ثلاثةٌ من السِّحْرِ : الرُّقى ، و التِّوَلُ، و التَّمائمُ",
+    "grade_raw": "ضعيف",
+    "graded_by": "الالباني",
+    "source": {
+      "book": "ضعيف الجامع",
+      "ref": "2583"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "اجتَنِبوا السَّبعَ الموبِقاتِ، قالوا: يا رَسولَ اللهِ، وما هُنَّ؟ قال: الشِّركُ باللهِ، والسِّحرُ، وقَتلُ النَّفسِ التي حَرَّمَ اللهُ إلَّا بالحَقِّ، وأكلُ الرِّبا، وأكلُ مالِ اليَتيمِ، والتَّولِّي يَومَ الزَّحفِ، وقَذفُ المُحصَناتِ المُؤمِناتِ الغافِلاتِ.",
+      "grade_raw": "صحيح",
+      "graded_by": "البخاري",
+      "narrator": "أبو هريرة",
+      "source": {
+        "book": "صحيح البخاري",
+        "ref": "2766"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H055",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H055-ALT",
+    "text": "اجتَنِبوا السَّبعَ الموبِقاتِ، قالوا: يا رَسولَ اللهِ، وما هُنَّ؟ قال: الشِّركُ باللهِ، والسِّحرُ، وقَتلُ النَّفسِ التي حَرَّمَ اللهُ إلَّا بالحَقِّ، وأكلُ الرِّبا، وأكلُ مالِ اليَتيمِ، والتَّولِّي يَومَ الزَّحفِ، وقَذفُ المُحصَناتِ المُؤمِناتِ الغافِلاتِ.",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "2766"
+    },
+    "takhrij": null,
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "كان إذا دخل رجبٌ قال : \" اللهم بارِكْ لنا في رجبٍ وشعبانَ، وبلِّغنا رمضانَ وكان إذا كانت ليلةُ الجُمُعةِ قال : هذه ليلةٌ غَرَّاءُ، ويومٌ أَزْهَرُ \"",
+    "grade_raw": "ضعيف",
+    "graded_by": "الالباني",
+    "source": {
+      "book": "ضعيف الجامع",
+      "ref": "4395"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": null,
+    "file": "ahadith_la_tasih.docx",
+    "id": "H057",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "إنَّ هذا الدِّينَ مَتينٌ، فأوْغِلوا فيه برِفقٍ",
+    "grade_raw": "منكر",
+    "graded_by": "الإمام أحمد",
+    "source": {
+      "book": "المنتخب من العلل للخلال",
+      "ref": "71"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "إنَّ الدِّينَ يُسرٌ، ولَن يُشادَّ الدِّينَ أحَدٌ إلَّا غَلَبَه، فسَدِّدوا وقارِبوا، وأبشِروا، واستَعينوا بالغَدوةِ والرَّوحةِ وشيءٍ مِنَ الدُّلجةِ.",
+      "grade_raw": "صحيح",
+      "graded_by": "البخاري",
+      "narrator": "أبو هريرة",
+      "source": {
+        "book": "صحيح البخاري",
+        "ref": "39"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H058",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H058-ALT",
+    "text": "إنَّ الدِّينَ يُسرٌ، ولَن يُشادَّ الدِّينَ أحَدٌ إلَّا غَلَبَه، فسَدِّدوا وقارِبوا، وأبشِروا، واستَعينوا بالغَدوةِ والرَّوحةِ وشيءٍ مِنَ الدُّلجةِ.",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "39"
+    },
+    "takhrij": null,
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "يؤمُّ القومَ أحسنُهم وجهًا",
+    "grade_raw": "ضعيف",
+    "graded_by": "السمهودي",
+    "source": {
+      "book": "الغماز على اللماز",
+      "ref": "256"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "يؤمُّ القومَ أقرؤُهم لِكتابِ اللَّهِ فإن كانوا في القراءةِ سواءً فأقدمُهم في الهِجرةِ فإن كانوا في الهِجرةِ سواءً فأعلمُهم بالسُّنَّةِ فإن كانوا في السُّنَّةِ سواءً فأقدمُهم سِنًّا ولا تؤمَّ الرَّجلَ في سلطانِهِ ولا تقعُدْ على تَكرِمتِهِ إلَّا أن يأذنَ لَك",
+      "grade_raw": "صحيح",
+      "graded_by": "الألباني",
+      "narrator": "أبو مسعود عقبة بن عمرو",
+      "source": {
+        "book": "صحيح النسائي",
+        "ref": "779"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H060",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H060-ALT",
+    "text": "يؤمُّ القومَ أقرؤُهم لِكتابِ اللَّهِ فإن كانوا في القراءةِ سواءً فأقدمُهم في الهِجرةِ فإن كانوا في الهِجرةِ سواءً فأعلمُهم بالسُّنَّةِ فإن كانوا في السُّنَّةِ سواءً فأقدمُهم سِنًّا ولا تؤمَّ الرَّجلَ في سلطانِهِ ولا تقعُدْ على تَكرِمتِهِ إلَّا أن يأذنَ لَك",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "صحيح النسائي",
+      "ref": "779"
+    },
+    "takhrij": null,
+    "narrator": "أبو مسعود عقبة بن عمرو",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "حُكمي على الواحدِ حُكمي على الجماعةِ",
+    "grade_raw": "ليس له اصل",
+    "graded_by": "السخاوي",
+    "source": {
+      "book": "المقاصد الحسنة",
+      "ref": "229"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "إنِّي لا أُصافِحُ النِّساءَ ، إِنَّما قَوْلِي لمائَةِ امرأةٍ كَقَوْلِي لِامرأةٍ واحدةٍ",
+      "grade_raw": "إسناده صحيح",
+      "graded_by": "الألباني",
+      "narrator": "أميمة بنت رقيقة",
+      "source": {
+        "book": "السلسلة الصحيحة",
+        "ref": "529"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H062",
+    "grade_class": "not_authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H062-ALT",
+    "text": "إنِّي لا أُصافِحُ النِّساءَ ، إِنَّما قَوْلِي لمائَةِ امرأةٍ كَقَوْلِي لِامرأةٍ واحدةٍ",
+    "grade_raw": "إسناده صحيح",
+    "grade_class": "authentic",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "السلسلة الصحيحة",
+      "ref": "529"
+    },
+    "takhrij": null,
+    "narrator": "أميمة بنت رقيقة",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "من تزوَّج امرأةً لعِزِّها لم يزِدْه اللهُ عزَّ وجلَّ إلَّا ذُلًّا، ومن تزوَّج امرأةً لمالِها لم يزِدْه اللهُ إلَّا فقرًا، ومن تزوَّج امرأةً لحُسنِها لم يزِدْه اللهُ إلَّا دناءةً، ومن تزوَّج امرأةً لم يتزوَّجْها إلَّا ليغُضَّ بصرَه أو يُحصِّنَ فرْجَه أو يصِلَ رحِمَه بارك اللهُ له فيها وبارك لها فيه",
+    "grade_raw": "موصوع",
+    "graded_by": "ابن الجوزي",
+    "source": {
+      "book": "الموضوعات لابن الجوزي",
+      "ref": "3/45"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "تُنكَحُ المَرأةُ لأربَعٍ: لمالِها، ولِحَسَبِها، وجَمالِها، ولِدينِها؛ فاظفَرْ بذاتِ الدِّينِ تَرِبَت يَداك.",
+      "grade_raw": "صحيح",
+      "graded_by": "البخاري",
+      "narrator": "أبو هريرة",
+      "source": {
+        "book": "صحيح البخاري ال",
+        "ref": null
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H064",
+    "grade_class": "unknown",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H064-ALT",
+    "text": "تُنكَحُ المَرأةُ لأربَعٍ: لمالِها، ولِحَسَبِها، وجَمالِها، ولِدينِها؛ فاظفَرْ بذاتِ الدِّينِ تَرِبَت يَداك.",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري ال",
+      "ref": null
+    },
+    "takhrij": null,
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "إنَّ أفضلَ العبادةِ حُسْنُ الظنِّ باللهِ، يقولُ اللهُ لعَبْدِه : أنا عند ظنِّك بي",
+    "grade_raw": "ضعيف",
+    "graded_by": "الالباني",
+    "source": {
+      "book": "ضعيف الجامع",
+      "ref": "1399"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "يقولُ اللهُ : أنا عند ظنِّ عبدِي بِي ، وأنا مَعَه إذا ذكرَنِي ، فإنْ ذكرَنِي في نفسِه ذكرتُه في نفسِي ، وإنْ ذكرَنِي في ملأٍ ذكرتُه في ملأٍ خيرٍ مِنهم ، وإنْ تقرَّبَ إليَّ شِبرًا تقرَّبْتُ إليِه ذِراعًا ، وإنْ تقرَّبَ إليَّ ذِراعًا تقرَّبتُ إليِه باعًا ، وإنْ أتانِي يمشِي أتيتُه هرولةً . قال قتادةُ واللهُ أسرعُ بالمغفرةِ",
+      "grade_raw": "صحيح",
+      "graded_by": "الألباني",
+      "narrator": "أبو هريرة",
+      "source": {
+        "book": "صحيح الترغيب",
+        "ref": "1488"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H066",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H066-ALT",
+    "text": "يقولُ اللهُ : أنا عند ظنِّ عبدِي بِي ، وأنا مَعَه إذا ذكرَنِي ، فإنْ ذكرَنِي في نفسِه ذكرتُه في نفسِي ، وإنْ ذكرَنِي في ملأٍ ذكرتُه في ملأٍ خيرٍ مِنهم ، وإنْ تقرَّبَ إليَّ شِبرًا تقرَّبْتُ إليِه ذِراعًا ، وإنْ تقرَّبَ إليَّ ذِراعًا تقرَّبتُ إليِه باعًا ، وإنْ أتانِي يمشِي أتيتُه هرولةً . قال قتادةُ واللهُ أسرعُ بالمغفرةِ",
+    "grade_raw": "صحيح",
+    "grade_class": "authentic",
+    "graded_by": "الألباني",
+    "source": {
+      "book": "صحيح الترغيب",
+      "ref": "1488"
+    },
+    "takhrij": null,
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "من ختمَ القرآن فله دعوةٌ مستجابةٌ",
+    "grade_raw": "إسناده ضعيف",
+    "graded_by": "ابن حجر العسقلاني",
+    "source": {
+      "book": "نتائج الأفكار",
+      "ref": "3/174"
+    },
+    "takhrij": null,
+    "narrator": null,
+    "alternative": {
+      "text": "عنِ الحَكَمِ قال: أرسَل إليَّ مجاهدٌ وعَبْدَةُ بنُ أبي لُبَابةَ: إنَّا نُريدُ أن نختِمَ القُرْآنَ، وكان يُقالُ: إنَّ الدُّعاءَ يُستجابُ عندَ خَتْمِ القُرْآنِ.",
+      "grade_raw": "موقوف صحيح",
+      "graded_by": "ابن حجر العسقلاني",
+      "narrator": "الحكم بن عتيبة",
+      "source": {
+        "book": "نتائج الأفكار",
+        "ref": "3/177"
+      },
+      "url": null
+    },
+    "file": "ahadith_la_tasih.docx",
+    "id": "H068",
+    "grade_class": "weak",
+    "note": null,
+    "url": null
+  },
+  {
+    "id": "H068-ALT",
+    "text": "عنِ الحَكَمِ قال: أرسَل إليَّ مجاهدٌ وعَبْدَةُ بنُ أبي لُبَابةَ: إنَّا نُريدُ أن نختِمَ القُرْآنَ، وكان يُقالُ: إنَّ الدُّعاءَ يُستجابُ عندَ خَتْمِ القُرْآنِ.",
+    "grade_raw": "موقوف صحيح",
+    "grade_class": "authentic",
+    "graded_by": "ابن حجر العسقلاني",
+    "source": {
+      "book": "نتائج الأفكار",
+      "ref": "3/177"
+    },
+    "takhrij": null,
+    "narrator": "الحكم بن عتيبة",
+    "alternative": null,
+    "note": null,
+    "url": null,
+    "file": "ahadith_la_tasih.docx"
+  },
+  {
+    "text": "حَقٌّ للَّهِ على كُلِّ مُسلِمٍ أن يَغتَسِلَ في كُلِّ سَبعةِ أيَّامٍ، يَغسِلُ رَأسَه وجَسَدَه",
+    "grade_raw": "صحيح",
+    "graded_by": "مسلم",
+    "source": {
+      "book": "صحيح مسلم",
+      "ref": "849"
+    },
+    "takhrij": "أخرجه البخاري (897)، ومسلم (849).",
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H070",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "ما أسفَلَ مِنَ الكَعبَينِ مِنَ الإزارِ ففي النَّارِ.",
+    "grade_raw": "صحيح",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "5787"
+    },
+    "takhrij": "من أفراد البخاري على مسلم",
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H071",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "مَن قامَ لَيلةَ القدرِ إيمانًا واحتِسابًا غُفِرَ له ما تَقدَّمَ مِن ذَنبِه، ومَن صامَ رَمَضانَ إيمانًا واحتِسابًا غُفِرَ له ما تَقدَّمَ مِن ذَنبِه.",
+    "grade_raw": "صحيح",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "1901"
+    },
+    "takhrij": "أخرجه البخاري (1901)، ومسلم (760",
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H072",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "مَن كان يُؤمِنُ باللهِ واليَومِ الآخِرِ فلا يُؤذي جارَه، واستَوصوا بالنِّساءِ خَيرًا؛ فإنَّهنَّ خُلِقنَ مِن ضِلَعٍ، وإنَّ أعوجَ شَيءٍ في الضِّلَعِ أعلاه، فإن ذَهَبتَ تُقيمُه كَسَرتَه، وإن تَرَكتَه لم يَزَلْ أعوَجَ، فاستَوصوا بالنِّساءِ خَيرًا.",
+    "grade_raw": "صحيح",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "5185"
+    },
+    "takhrij": "أخرجه البخاري (5185، 5186)، ومسلم (47، 1468)",
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H073",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "أُريتُ النَّارَ فإذا أكثَرُ أهلِها النِّساءُ، يَكفُرنَ، قيلَ: أيَكفُرنَ باللهِ؟ قال: يَكفُرنَ العَشيرَ، ويَكفُرنَ الإحسانَ، لو أحسَنتَ إلى إحداهنَّ الدَّهرَ، ثُمَّ رَأت مِنكَ شيئًا، قالت: ما رَأيتُ مِنكَ خَيرًا قَطُّ.",
+    "grade_raw": "صحيح",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "29"
+    },
+    "takhrij": "أخرجه البخاري (29)، ومسلم (907)",
+    "narrator": "عبدالله ابن عباس",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H074",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "إنَّما الأعمالُ بالنِّيَّاتِ، وإنَّما لكُلِّ امرِئٍ ما نَوى، فمَن كانَت هِجرَتُه إلى دُنيا يُصيبُها، أو إلى امرَأةٍ يَنكِحُها، فهِجرَتُه إلى ما هاجَرَ إليه.",
+    "grade_raw": "صحيح",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "1"
+    },
+    "takhrij": "أخرجه أبو داود (2201)، وابن ماجه (4227)، والطحاوي في ((شرح معاني الآثار)) (4650) واللفظ لهم.",
+    "narrator": "عمر بن خطاب",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H075",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "مَن لا يَرحَمُ لا يُرحَمُ.",
+    "grade_raw": "صحيح",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "6013"
+    },
+    "takhrij": "أخرجه مسلم (2319)، والترمذي (1922)، وأحمد (19169) جميعا باختلاف يسير.",
+    "narrator": "جرير بن عبد الله",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H076",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "الطُّهورُ شَطرُ الإيمانِ، والحَمدُ للَّهِ تَملأُ الميزانَ، وسُبحانَ اللهِ والحَمدُ للَّهِ تَملَآنِ -أو تَملأُ- ما بينَ السَّمَواتِ والأرضِ، والصَّلاةُ نورٌ، والصَّدَقةُ بُرهانٌ، والصَّبرُ ضياءٌ، والقُرآنُ حُجَّةٌ لَك أو عليك، كُلُّ النَّاسِ يَغدو فبايِعٌ نَفسَه فمُعتِقُها أو موبِقُها.",
+    "grade_raw": "صحيح",
+    "graded_by": "مسلم",
+    "source": {
+      "book": "صحيح مسلم",
+      "ref": "223 ا"
+    },
+    "takhrij": "من أفراد مسلم على البخاري",
+    "narrator": "أبو مالك الأشعري",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H077",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "مَن حَمَلَ علينا السِّلاحَ فليسَ مِنَّا، ومَن غَشَّنا فليسَ مِنَّا.",
+    "grade_raw": "صحيح",
+    "graded_by": "مسلم",
+    "source": {
+      "book": "صحيح مسلم",
+      "ref": "101"
+    },
+    "takhrij": "من أفراد مسلم على البخاري",
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H078",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "الكلمةُ الطَّيِّبةُ صدَقةٌ",
+    "grade_raw": "صحيح",
+    "graded_by": "الزرقاني",
+    "source": {
+      "book": "مختصر المقاصد",
+      "ref": "755"
+    },
+    "takhrij": "أخرجه البخاري (2989)، ومسلم (1009) مطولاً",
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H079",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "الدِّينُ النَّصيحةُ. قُلنا: لمَن؟ قال: للَّهِ ولكِتابِه ولرَسولِه، ولأئِمَّةِ المُسلِمينَ وعامَّتِهم",
+    "grade_raw": "صحيح",
+    "graded_by": "مسلم",
+    "source": {
+      "book": "صحيح مسلم",
+      "ref": "55"
+    },
+    "takhrij": "أخرجه أبو داود (4944)، والنسائي (4197) واللفظ لهما",
+    "narrator": "تميم الداري",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H080",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "المَرءُ مع مَن أحَبَّ",
+    "grade_raw": "صحيح",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "6168"
+    },
+    "takhrij": "أخرجه البخاري (6168)، ومسلم (2640)",
+    "narrator": "عبدالله بن مسعود",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H081",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "الرَّاحمونَ يرحمُهُمُ اللَّهُ، ارحَموا أَهْلَ الأرضِ يرحمُكُم مَن في السَّماءِ",
+    "grade_raw": "صحيح",
+    "graded_by": "ابن دقيق العيد",
+    "source": {
+      "book": "الاقتراح في بيان الاصطلاح",
+      "ref": "127"
+    },
+    "takhrij": "أخرجه أبو داود (4941 )، والترمذي (1924 )،وأحمد (6494 )",
+    "narrator": "عبدالله بن عمرو",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H082",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "مَن قَرَأ بالآيَتَينِ مِن آخِرِ سورةِ البَقَرةِ في لَيلةٍ كَفَتاه",
+    "grade_raw": "صحيح",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري ا",
+      "ref": "5009"
+    },
+    "takhrij": "أخرجه مسلم (807) باختلاف يسير",
+    "narrator": "أبو مسعود عقبة بن عمرو",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H083",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "اقْرَؤُوا القُرآنَ؛ فإنَّه يأتي شافِعًا لأصحابِه، اقْرَؤُوا الزَّهْراوَينِ: البَقَرةَ وآلَ عِمرانَ؛ فإنَّهما يأتيانِ يَومَ القيامةِ كأنَّهما غَمامَتانِ أو غَيايَتانِ أو فِرقانِ من طَيرٍ صَوافَّ تُحاجَّانِ عن صاحِبِهما، اقْرَؤُوا البَقَرةَ؛ فإنَّ أخذَها بَرَكةٌ، وتَرْكَها حَسرَةٌ، ولا تَستطيعُها البَطَلَةُ .",
+    "grade_raw": "صحيح",
+    "graded_by": "البغوي",
+    "source": {
+      "book": "معالم التنزيل (تفسير البغوي)",
+      "ref": "1/63"
+    },
+    "takhrij": "ا أخرجه مسلم (804)، وأحمد (22267)، والطبراني (8/138) (7542)، والبغوي في ((شرح السنة)) (1193) واللفظ له.",
+    "narrator": "أبو أمامة الباهلي",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H084",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "لا تَجعَلوا بُيوتَكُم مَقابِرَ، إنَّ الشَّيطانَ يَنفِرُ مِنَ البَيتِ الذي تُقرَأُ فيه سورةُ البَقَرةِ.",
+    "grade_raw": "صحيح",
+    "graded_by": "مسلم",
+    "source": {
+      "book": "صحيح مسلم",
+      "ref": "78٠"
+    },
+    "takhrij": "من أفراد مسلم على البخاري",
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H085",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "أنَّ رَجُلًا سَمِعَ رَجُلًا يَقرَأُ: {قُل هو اللهُ أحَدٌ} [الإخلاص: 1] يُرَدِّدُها، فلَمَّا أصبَحَ جاءَ إلى رَسولِ اللهِ صلَّى اللهُ عليه وسلَّم فذَكَرَ ذلك له، وكَأنَّ الرَّجُلَ يَتَقالُّها ، فقال رَسولُ اللهِ صلَّى اللهُ عليه وسلَّم: والذي نَفسي بيَدِه إنَّها لَتَعدِلُ ثُلُثَ القُرآنِ.",
+    "grade_raw": "صحيح",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "6643م"
+    },
+    "takhrij": "من أفراد البخاري على مسلم",
+    "narrator": "أبو سعيد الخدري",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H086",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "من قرأ آيةَ الكرسيِّ دُبرَ كلِّ صلاةٍ لم يكنْ بينه وبين أن يدخلَ الجنَّةَ إلَّا أن يموتَ",
+    "grade_raw": "حسن",
+    "graded_by": "أبو نصر السجزي الوائلي",
+    "source": {
+      "book": "التذكار في أفضل الأذكار",
+      "ref": "179"
+    },
+    "takhrij": "أخرجه النسائي في ((السنن الكبرى)) (9928)، والطبراني (8/134) (7532)، وابن السني في ((عمل اليوم والليلة)) (124)",
+    "narrator": "أبو امامة الباهلي",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H087",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "مَن حَفِظَ عَشرَ آياتٍ مِن أوَّلِ سورةِ الكَهفِ عُصِمَ مِنَ الدَّجَّالِ.",
+    "grade_raw": "صحيح",
+    "graded_by": "مسلم",
+    "source": {
+      "book": "صحيح مسلم",
+      "ref": "809"
+    },
+    "takhrij": "أخرجه مسلم (809)",
+    "narrator": "أبو الدرداء",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H088",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "المرأةُ عورةٌ فإذا خرجتِ استشرفَها الشَّيطانُ",
+    "grade_raw": "صحيح",
+    "graded_by": "الالباني",
+    "source": {
+      "book": "صحيح الترمذي",
+      "ref": "1173"
+    },
+    "takhrij": "أخرجه الترمذي (1173) واللفظ له، والبزار (2061)، وابن خزيمة (1685) مطولاً.",
+    "narrator": "عبدالله بن مسعود",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H089",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "العَهْدُ الذي بَيْنَنا وبَيْنَهم الصَّلاةُ، فمن تركَها فقد كَفَر",
+    "grade_raw": "صحيح",
+    "graded_by": "ابن باز",
+    "source": {
+      "book": "مجموع فتاوى ابن باز",
+      "ref": "256/3"
+    },
+    "takhrij": "أخرجه الترمذي (2621)، والنسائي (463)، وابن ماجه (1079)، وأحمد (22987)",
+    "narrator": "بريدة بن الحصيب الأسلمي]",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H090",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "مَن تابَ قَبلَ أن تَطلُعَ الشَّمسُ مِن مَغرِبِها تابَ اللهُ عليه",
+    "grade_raw": "صحيح",
+    "graded_by": "مسلم",
+    "source": {
+      "book": "صحيح مسلم",
+      "ref": "2703"
+    },
+    "takhrij": "أخرجه مسلم (2703)",
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H091",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "صَلاةٌ في مَسجِدي هذا خَيرٌ مِن ألفِ صَلاةٍ فيما سِواه، إلَّا المَسجِدَ الحَرامَ.",
+    "grade_raw": "صحيح",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": null
+    },
+    "takhrij": "أخرجه البخاري (1190)، ومسلم (1394)",
+    "narrator": "ابي هريرة",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H092",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "أكمَلُ المؤمنين إيمانًا أحسَنُهم خُلقًا",
+    "grade_raw": "أخرجه في صحيحه",
+    "graded_by": "ابن حبان",
+    "source": {
+      "book": "صحيح ابن حبان",
+      "ref": "479"
+    },
+    "takhrij": "). أخرجه أبو داود (4682)، وأخرجه الترمذي (1162)، وأحمد (7402) مطولاً",
+    "narrator": "أبو هريرة",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H093",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "ما من شيءٍ في المِيزانِ أثْقلُ من حُسنِ الخُلُقِ",
+    "grade_raw": "صحيح",
+    "graded_by": "السيوطي",
+    "source": {
+      "book": "الجامع الصغير",
+      "ref": "8027"
+    },
+    "takhrij": "أخرجه البخاري في ((الأدب المفرد)) (270) واللفظ له، وأخرجه أبو داود (4799) باختلاف يسير، والترمذي (2002) مطولاً باختلاف يسير",
+    "narrator": "أبو الدرداء",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H094",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "ثَلاثةٌ لا يُكَلِّمُهمُ اللهُ يَومَ القيامةِ: المَنَّانُ الذي لا يُعطي شيئًا إلَّا مَنَّه، والمُنَفِّقُ سِلعَتَه بالحَلِفِ الفاجِرِ ، والمُسبِلُ إزارَه. وفي روايةٍ: ثَلاثةٌ لا يُكَلِّمُهمُ اللهُ ولا يَنظُرُ إليهم ولا يُزَكِّيهم ولَهم عَذابٌ أليمٌ.",
+    "grade_raw": "صحيح",
+    "graded_by": "مسلم",
+    "source": {
+      "book": "صحيح مسلم",
+      "ref": "106"
+    },
+    "takhrij": "من أفراد مسلم على البخاري",
+    "narrator": "أبو ذر الغفاري",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H095",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  },
+  {
+    "text": "يَدخُلُ الجَنَّةَ مِن أُمَّتي سَبعونَ ألفًا بغيرِ حِسابٍ، هُمُ الذينَ لا يَستَرْقونَ، ولا يَتَطَيَّرونَ، وعلى رَبِّهم يَتَوكَّلونَ.",
+    "grade_raw": "صحيح",
+    "graded_by": "البخاري",
+    "source": {
+      "book": "صحيح البخاري",
+      "ref": "6472"
+    },
+    "takhrij": "أخرجه مسلم (220) مطولا.",
+    "narrator": "عبدالله بن عباس",
+    "alternative": null,
+    "file": "ahadith_sahiha.docx",
+    "id": "H096",
+    "grade_class": "authentic",
+    "note": null,
+    "url": null
+  }
+]

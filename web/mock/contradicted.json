@@ -1,0 +1,62 @@
+{
+  "request_id": "demo-0001",
+  "input_type": "audio",
+  "processing_ms": 6400,
+  "verdict": "contradicted",
+  "verdict_title": "مخالف للمصدر",
+  "verdict_summary": "الحديث الوارد في المقطع لا يثبت، ومع المقطع قرائن على توليد الصوت",
+  "abstain_reason": null,
+  "transcript": {
+    "available": true,
+    "text": "يقول النبي صلى الله عليه وسلم: الجنة تحت أقدام الأمهات، فبروا أمهاتكم",
+    "duration_sec": 18.4
+  },
+  "evidence": {
+    "authenticity": {
+      "status": "checked",
+      "signal": "likely_synthetic",
+      "label": "قرينة قوية على أن الصوت مولَّد",
+      "waveform": [0.31, 0.52, 0.74, 0.66, 0.41, 0.58, 0.81, 0.69, 0.47, 0.35, 0.62, 0.77, 0.55, 0.43, 0.68, 0.72, 0.5, 0.38, 0.6, 0.79, 0.64, 0.46, 0.53, 0.7, 0.57, 0.4, 0.63, 0.75, 0.49, 0.36, 0.59, 0.44]
+    },
+    "speaker_match": {
+      "status": "no_reference",
+      "label": "لا تتوفر عينة مرجعية لصوت المتحدث المنسوب إليه"
+    },
+    "original_match": {
+      "status": "not_found",
+      "label": "لم يُعثر على الدرس الأصلي في الأرشيف الموثق",
+      "source": null,
+      "before": null,
+      "after": null
+    },
+    "content": {
+      "status": "verified",
+      "label": "الحديث الوارد لا يثبت",
+      "claims": [
+        {
+          "quoted_text": "الجنة تحت أقدام الأمهات",
+          "matched": true,
+          "match_type": "exact",
+          "hadith": {
+            "id": "H015",
+            "text": "الجنَّةُ تحْتَ أقدامِ الأمَّهاتِ",
+            "grade_raw": "ضعيف",
+            "grade_class": "weak",
+            "graded_by": "الألباني",
+            "source": { "book": "ضعيف الجامع", "ref": "2666" },
+            "url": null,
+            "note": null,
+            "alternative": {
+              "text": "ألكَ والدانِ؟ قال: نعَم، قال: الزَمهُما فإنَّ الجنَّةَ تحتَ أرجلِهما",
+              "grade_raw": "صحيح",
+              "graded_by": "الهيتمي المكي",
+              "source": { "book": "الزواجر عن اقتراف الكبائر", "ref": "2/74" },
+              "url": null
+            }
+          }
+        }
+      ]
+    }
+  },
+  "disclaimer": "التقرير قرائن مساعدة وليس حكماً قطعياً، والمرجع في الحكم أهل العلم."
+}

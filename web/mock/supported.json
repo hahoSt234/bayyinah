@@ -1,0 +1,56 @@
+{
+  "request_id": "demo-0002",
+  "input_type": "text",
+  "processing_ms": 900,
+  "verdict": "supported",
+  "verdict_title": "مؤيَّد بالمصدر",
+  "verdict_summary": "المضمون ثابت في المصادر المعتمدة",
+  "abstain_reason": null,
+  "transcript": {
+    "available": true,
+    "text": "يؤم القوم أقرؤهم لكتاب الله",
+    "duration_sec": null
+  },
+  "evidence": {
+    "authenticity": {
+      "status": "not_applicable",
+      "signal": null,
+      "label": "المدخل نص، فلم يُجرَ الفحص التقني",
+      "waveform": null
+    },
+    "speaker_match": {
+      "status": "not_applicable",
+      "label": "المدخل نص"
+    },
+    "original_match": {
+      "status": "not_applicable",
+      "label": "المدخل نص",
+      "source": null,
+      "before": null,
+      "after": null
+    },
+    "content": {
+      "status": "verified",
+      "label": "الحديث ثابت",
+      "claims": [
+        {
+          "quoted_text": "يؤم القوم أقرؤهم لكتاب الله",
+          "matched": true,
+          "match_type": "partial",
+          "hadith": {
+            "id": "H051-ALT",
+            "text": "يؤمُّ القومَ أقرؤُهم لِكتابِ اللَّهِ فإن كانوا في القراءةِ سواءً فأقدمُهم في الهِجرةِ فإن كانوا في الهِجرةِ سواءً فأعلمُهم بالسُّنَّةِ فإن كانوا في السُّنَّةِ سواءً فأقدمُهم سِنًّا ولا تؤمَّ الرَّجلَ في سلطانِهِ ولا تقعُدْ على تَكرِمتِهِ إلَّا أن يأذنَ لَك",
+            "grade_raw": "صحيح",
+            "grade_class": "authentic",
+            "graded_by": "الألباني",
+            "source": { "book": "صحيح النسائي", "ref": "779" },
+            "url": null,
+            "note": "الراوي: أبو مسعود عقبة بن عمرو",
+            "alternative": null
+          }
+        }
+      ]
+    }
+  },
+  "disclaimer": "التقرير قرائن مساعدة وليس حكماً قطعياً، والمرجع في الحكم أهل العلم."
+}
