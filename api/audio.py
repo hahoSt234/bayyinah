@@ -13,7 +13,7 @@ SAMPLE_RATE = 16000
 MIN_SECONDS = 2.0        # أقصر من كذا ما نحلله
 SHORT_SECONDS = 6.0      # أقصر من كذا نعتبر فحص الأصالة غير كافي
 
-WHISPER_SIZE = os.getenv("WHISPER_SIZE", "small")
+WHISPER_SIZE = os.getenv("WHISPER_SIZE", "base")
 DEEPFAKE_MODEL = os.getenv("DEEPFAKE_MODEL", "").strip()  # يتحدد يوم الاثنين بعد التجربة
 
 _whisper = None
@@ -58,7 +58,7 @@ def transcribe(wav):
         if _whisper is None:
             from faster_whisper import WhisperModel
             _whisper = WhisperModel(WHISPER_SIZE, device="cpu", compute_type="int8")
-        segments, _ = _whisper.transcribe(wav, language="ar", beam_size=1, vad_filter=True)
+        segments, _ = _whisper.transcribe(wav, language="ar", beam_size=1, vad_filter=False)
         text = " ".join(s.text.strip() for s in segments).strip()
     except Exception:
         raise AudioError("transcription_failed", "تعذّر التفريغ النصي للمقطع.")
